@@ -20,11 +20,20 @@ p {
   font-size: 21px;
 }
 
-.link {
-  color: aquamarine;
+.small-text {
   font-size: 16px;
 }
 
 .copyright {
   text-align: right;
+}
+
+a:link {
+color: aquamarine;
+}
+a:visited {
+color: aquamarine;
+}
+a:hover {
+color: aquamarine;
 }
